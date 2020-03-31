@@ -46,7 +46,7 @@ let img36;
 let img46;
 let img56;
 let img66;
-let img76*1.5;
+let img76;
 
 
 
