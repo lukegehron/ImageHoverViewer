@@ -51,66 +51,66 @@ let img76;
 
 
 function preload() {
-  img1 = loadImage("Animotion000.jpg");
-  img2 = loadImage("Animotion001.jpg");
-  img3 = loadImage("Animotion002.jpg");
-  img4 = loadImage("Animotion003.jpg");
-  img5 = loadImage("Animotion004.jpg");
-  img6 = loadImage("Animotion005.jpg");
-  img7 = loadImage("Animotion006.jpg");
+  img1 = loadImage("assets/Animotion000.jpg");
+  img2 = loadImage("assets/Animotion001.jpg");
+  img3 = loadImage("assets/Animotion002.jpg");
+  img4 = loadImage("assets/Animotion003.jpg");
+  img5 = loadImage("assets/Animotion004.jpg");
+  img6 = loadImage("assets/Animotion005.jpg");
+  img7 = loadImage("assets/Animotion006.jpg");
 
-  img11 = loadImage("Animotion013.jpg");
-  img21 = loadImage("Animotion012.jpg");
-  img31 = loadImage("Animotion011.jpg");
-  img41 = loadImage("Animotion010.jpg");
-  img51 = loadImage("Animotion009.jpg");
-  img61 = loadImage("Animotion008.jpg");
-  img71 = loadImage("Animotion007.jpg");
+  img11 = loadImage("assets/Animotion013.jpg");
+  img21 = loadImage("assets/Animotion012.jpg");
+  img31 = loadImage("assets/Animotion011.jpg");
+  img41 = loadImage("assets/Animotion010.jpg");
+  img51 = loadImage("assets/Animotion009.jpg");
+  img61 = loadImage("assets/Animotion008.jpg");
+  img71 = loadImage("assets/Animotion007.jpg");
 
-  img12 = loadImage("Animotion014.jpg");
-  img22 = loadImage("Animotion015.jpg");
-  img32 = loadImage("Animotion016.jpg");
-  img42 = loadImage("Animotion017.jpg");
-  img52 = loadImage("Animotion018.jpg");
-  img62 = loadImage("Animotion019.jpg");
-  img72 = loadImage("Animotion020.jpg");
+  img12 = loadImage("assets/Animotion014.jpg");
+  img22 = loadImage("assets/Animotion015.jpg");
+  img32 = loadImage("assets/Animotion016.jpg");
+  img42 = loadImage("assets/Animotion017.jpg");
+  img52 = loadImage("assets/Animotion018.jpg");
+  img62 = loadImage("assets/Animotion019.jpg");
+  img72 = loadImage("assets/Animotion020.jpg");
 
-  img13 = loadImage("Animotion027.jpg");
-  img23 = loadImage("Animotion026.jpg");
-  img33 = loadImage("Animotion025.jpg");
-  img43 = loadImage("Animotion024.jpg");
-  img53 = loadImage("Animotion023.jpg");
-  img63 = loadImage("Animotion022.jpg");
-  img73 = loadImage("Animotion021.jpg");
+  img13 = loadImage("assets/Animotion027.jpg");
+  img23 = loadImage("assets/Animotion026.jpg");
+  img33 = loadImage("assets/Animotion025.jpg");
+  img43 = loadImage("assets/Animotion024.jpg");
+  img53 = loadImage("assets/Animotion023.jpg");
+  img63 = loadImage("assets/Animotion022.jpg");
+  img73 = loadImage("assets/Animotion021.jpg");
 
-  img14 = loadImage("Animotion028.jpg");
-  img24 = loadImage("Animotion029.jpg");
-  img34 = loadImage("Animotion030.jpg");
-  img44 = loadImage("Animotion031.jpg");
-  img54 = loadImage("Animotion032.jpg");
-  img64 = loadImage("Animotion033.jpg");
-  img74 = loadImage("Animotion034.jpg");
+  img14 = loadImage("assets/Animotion028.jpg");
+  img24 = loadImage("assets/Animotion029.jpg");
+  img34 = loadImage("assets/Animotion030.jpg");
+  img44 = loadImage("assets/Animotion031.jpg");
+  img54 = loadImage("assets/Animotion032.jpg");
+  img64 = loadImage("assets/Animotion033.jpg");
+  img74 = loadImage("assets/Animotion034.jpg");
 
-  img15 = loadImage("Animotion041.jpg");
-  img25 = loadImage("Animotion040.jpg");
-  img35 = loadImage("Animotion039.jpg");
-  img45 = loadImage("Animotion038.jpg");
-  img55 = loadImage("Animotion037.jpg");
-  img65 = loadImage("Animotion036.jpg");
-  img75 = loadImage("Animotion035.jpg");
+  img15 = loadImage("assets/Animotion041.jpg");
+  img25 = loadImage("assets/Animotion040.jpg");
+  img35 = loadImage("assets/Animotion039.jpg");
+  img45 = loadImage("assets/Animotion038.jpg");
+  img55 = loadImage("assets/Animotion037.jpg");
+  img65 = loadImage("assets/Animotion036.jpg");
+  img75 = loadImage("assets/Animotion035.jpg");
 
 
-  img16 = loadImage("Animotion042.jpg");
-  img26 = loadImage("Animotion043.jpg");
-  img36 = loadImage("Animotion044.jpg");
-  img46 = loadImage("Animotion045.jpg");
-  img56 = loadImage("Animotion046.jpg");
-  img66 = loadImage("Animotion047.jpg");
-  img76 = loadImage("Animotion048.jpg");
+  img16 = loadImage("assets/Animotion042.jpg");
+  img26 = loadImage("assets/Animotion043.jpg");
+  img36 = loadImage("assets/Animotion044.jpg");
+  img46 = loadImage("assets/Animotion045.jpg");
+  img56 = loadImage("assets/Animotion046.jpg");
+  img66 = loadImage("assets/Animotion047.jpg");
+  img76 = loadImage("assets/Animotion048.jpg");
 }
 
 function setup() {
-  createCanvas(1024, 523);
+  createCanvas(1536, 864);
 }
 
 
