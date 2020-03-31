@@ -46,7 +46,7 @@ let img36;
 let img46;
 let img56;
 let img66;
-let img76;
+let img76*1.5;
 
 
 
@@ -95,7 +95,7 @@ function preload() {
   img25 = loadImage("https://raw.githubusercontent.com/lukegehron/ImageHoverViewer/master/assets/Animotion044.jpg");
   img35 = loadImage("https://raw.githubusercontent.com/lukegehron/ImageHoverViewer/master/assets/Animotion043.jpg");
   img45 = loadImage("https://raw.githubusercontent.com/lukegehron/ImageHoverViewer/master/assets/Animotion042.jpg");
-  img55 = loadImage("https://raw.githubusercontent.com/lukegehron/ImageHoverViewer/master/assets/Animotion031.jpg");
+  img55 = loadImage("https://raw.githubusercontent.com/lukegehron/ImageHoverViewer/master/assets/Animotion041.jpg");
   img65 = loadImage("https://raw.githubusercontent.com/lukegehron/ImageHoverViewer/master/assets/Animotion040.jpg");
   img75 = loadImage("https://raw.githubusercontent.com/lukegehron/ImageHoverViewer/master/assets/Animotion039.jpg");
 
@@ -106,7 +106,7 @@ function preload() {
   // img46 = loadImage("https://raw.githubusercontent.com/lukegehron/ImageHoverViewer/master/assets/Animotion045.jpg");
   // img56 = loadImage("https://raw.githubusercontent.com/lukegehron/ImageHoverViewer/master/assets/Animotion046.jpg");
   // img66 = loadImage("https://raw.githubusercontent.com/lukegehron/ImageHoverViewer/master/assets/Animotion047.jpg");
-  // img76 = loadImage("https://raw.githubusercontent.com/lukegehron/ImageHoverViewer/master/assets/Animotion048.jpg");
+  // img76*1.5 = loadImage("https://raw.githubusercontent.com/lukegehron/ImageHoverViewer/master/assets/Animotion048.jpg");
 }
 
 function setup() {
@@ -116,158 +116,158 @@ function setup() {
 
 
 function draw() {
-  // if (mouseY > 0 && mouseY < 76 && mouseX > 878 && mouseX < 1024) {
-  //   image(img76, 0, 0);
+  // if (mouseY > 0 && mouseY < 76*1.5 && mouseX > 878*1.5 && mouseX < 1024*1.5) {
+  //   image(img76*1.5, 0, 0);
   // }
-  if (mouseY > 76 && mouseY < 152 && mouseX > 878 && mouseX < 1024) {
+  if (mouseY > 76*1.5 && mouseY < 152*1.5 && mouseX > 878*1.5 && mouseX < 1024*1.5) {
     image(img75, 0, 0);
   }
-  if (mouseY > 152 && mouseY < 228 && mouseX > 878 && mouseX < 1024) {
+  if (mouseY > 152*1.5 && mouseY < 228*1.5 && mouseX > 878*1.5 && mouseX < 1024*1.5) {
     image(img74, 0, 0);
   }
-  if (mouseY > 228 && mouseY < 304 && mouseX > 878 && mouseX < 1024) {
+  if (mouseY > 228*1.5 && mouseY < 304*1.5 && mouseX > 878*1.5 && mouseX < 1024*1.5) {
     image(img73, 0, 0);
   }
-  if (mouseY > 304 && mouseY < 380 && mouseX > 878 && mouseX < 1024) {
+  if (mouseY > 304*1.5 && mouseY < 380*1.5 && mouseX > 878*1.5 && mouseX < 1024*1.5) {
     image(img72, 0, 0);
   }
-  if (mouseY > 380 && mouseY < 456 && mouseX > 878 && mouseX < 1024) {
+  if (mouseY > 380*1.5 && mouseY < 456*1.5 && mouseX > 878*1.5 && mouseX < 1024*1.5) {
     image(img71, 0, 0);
   }
-  if (mouseY > 456 && mouseY < 532 && mouseX > 878 && mouseX < 1024) {
+  if (mouseY > 456*1.5 && mouseY < 532*1.5 && mouseX > 878*1.5 && mouseX < 1024*1.5) {
     image(img7, 0, 0);
   }
 
 
-  // if (mouseY > 0 && mouseY < 76 && mouseX > 731 && mouseX < 878) {
+  // if (mouseY > 0 && mouseY < 76*1.5 && mouseX > 731*1.5 && mouseX < 878*1.5) {
   //   image(img66, 0, 0);
   // }
-  if (mouseY > 76 && mouseY < 152 && mouseX > 731 && mouseX < 878) {
+  if (mouseY > 76*1.5 && mouseY < 152*1.5 && mouseX > 731*1.5 && mouseX < 878*1.5) {
     image(img65, 0, 0);
   }
-  if (mouseY > 152 && mouseY < 228 && mouseX > 731 && mouseX < 878) {
+  if (mouseY > 152*1.5 && mouseY < 228*1.5 && mouseX > 731*1.5 && mouseX < 878*1.5) {
     image(img64, 0, 0);
   }
-  if (mouseY > 228 && mouseY < 304 && mouseX > 731 && mouseX < 878) {
+  if (mouseY > 228*1.5 && mouseY < 304*1.5 && mouseX > 731*1.5 && mouseX < 878*1.5) {
     image(img63, 0, 0);
   }
-  if (mouseY > 304 && mouseY < 380 && mouseX > 731 && mouseX < 878) {
+  if (mouseY > 304*1.5 && mouseY < 380*1.5 && mouseX > 731*1.5 && mouseX < 878*1.5) {
     image(img62, 0, 0);
   }
-  if (mouseY > 380 && mouseY < 456 && mouseX > 731 && mouseX < 878) {
+  if (mouseY > 380*1.5 && mouseY < 456*1.5 && mouseX > 731*1.5 && mouseX < 878*1.5) {
     image(img61, 0, 0);
   }
-  if (mouseY > 456 && mouseY < 532 && mouseX > 731 && mouseX < 878) {
+  if (mouseY > 456*1.5 && mouseY < 532*1.5 && mouseX > 731*1.5 && mouseX < 878*1.5) {
     image(img6, 0, 0);
   }
 
-  // if (mouseY > 0 && mouseY < 76 && mouseX > 585 && mouseX < 731) {
+  // if (mouseY > 0 && mouseY < 76*1.5 && mouseX > 585*1.5 && mouseX < 731*1.5) {
   //   image(img56, 0, 0);
   // }
-  if (mouseY > 76 && mouseY < 152 && mouseX > 585 && mouseX < 731) {
+  if (mouseY > 76*1.5 && mouseY < 152*1.5 && mouseX > 585*1.5 && mouseX < 731*1.5) {
     image(img55, 0, 0);
   }
-  if (mouseY > 152 && mouseY < 228 && mouseX > 585 && mouseX < 731) {
+  if (mouseY > 152*1.5 && mouseY < 228*1.5 && mouseX > 585*1.5 && mouseX < 731*1.5) {
     image(img54, 0, 0);
   }
-  if (mouseY > 228 && mouseY < 304 && mouseX > 585 && mouseX < 731) {
+  if (mouseY > 228*1.5 && mouseY < 304*1.5 && mouseX > 585*1.5 && mouseX < 731*1.5) {
     image(img53, 0, 0);
   }
-  if (mouseY > 304 && mouseY < 380 && mouseX > 585 && mouseX < 731) {
+  if (mouseY > 304*1.5 && mouseY < 380*1.5 && mouseX > 585*1.5 && mouseX < 731*1.5) {
     image(img52, 0, 0);
   }
-  if (mouseY > 380 && mouseY < 456 && mouseX > 585 && mouseX < 731) {
+  if (mouseY > 380*1.5 && mouseY < 456*1.5 && mouseX > 585*1.5 && mouseX < 731*1.5) {
     image(img51, 0, 0);
   }
-  if (mouseY > 456 && mouseY < 532 && mouseX > 585 && mouseX < 731) {
+  if (mouseY > 456*1.5 && mouseY < 532*1.5 && mouseX > 585*1.5 && mouseX < 731*1.5) {
     image(img5, 0, 0);
   }
 
-  // if (mouseY > 0 && mouseY < 76 && mouseX > 439 && mouseX < 585) {
+  // if (mouseY > 0 && mouseY < 76*1.5 && mouseX > 439*1.5 && mouseX < 585*1.5) {
   //   image(img46, 0, 0);
   // }
-  if (mouseY > 76 && mouseY < 152 && mouseX > 439 && mouseX < 585) {
+  if (mouseY > 76*1.5 && mouseY < 152*1.5 && mouseX > 439*1.5 && mouseX < 585*1.5) {
     image(img45, 0, 0);
   }
-  if (mouseY > 152 && mouseY < 228 && mouseX > 439 && mouseX < 585) {
+  if (mouseY > 152*1.5 && mouseY < 228*1.5 && mouseX > 439*1.5 && mouseX < 585*1.5) {
     image(img44, 0, 0);
   }
-  if (mouseY > 228 && mouseY < 304 && mouseX > 439 && mouseX < 585) {
+  if (mouseY > 228*1.5 && mouseY < 304*1.5 && mouseX > 439*1.5 && mouseX < 585*1.5) {
     image(img43, 0, 0);
   }
-  if (mouseY > 304 && mouseY < 380 && mouseX > 439 && mouseX < 585) {
+  if (mouseY > 304*1.5 && mouseY < 380*1.5 && mouseX > 439*1.5 && mouseX < 585*1.5) {
     image(img42, 0, 0);
   }
-  if (mouseY > 380 && mouseY < 456 && mouseX > 439 && mouseX < 585) {
+  if (mouseY > 380*1.5 && mouseY < 456*1.5 && mouseX > 439*1.5 && mouseX < 585*1.5) {
     image(img41, 0, 0);
   }
-  if (mouseY > 456 && mouseY < 532 && mouseX > 439 && mouseX < 585) {
+  if (mouseY > 456*1.5 && mouseY < 532*1.5 && mouseX > 439*1.5 && mouseX < 585*1.5) {
     image(img4, 0, 0);
   }
 
-  // if (mouseY > 0 && mouseY < 76 && mouseX > 293 && mouseX < 439) {
+  // if (mouseY > 0 && mouseY < 76*1.5 && mouseX > 293*1.5 && mouseX < 439*1.5) {
   //   image(img36, 0, 0);
   // }
-  if (mouseY > 76 && mouseY < 152 && mouseX > 293 && mouseX < 439) {
+  if (mouseY > 76*1.5 && mouseY < 152*1.5 && mouseX > 293*1.5 && mouseX < 439*1.5) {
     image(img35, 0, 0);
   }
-  if (mouseY > 152 && mouseY < 228 && mouseX > 293 && mouseX < 439) {
+  if (mouseY > 152*1.5 && mouseY < 228*1.5 && mouseX > 293*1.5 && mouseX < 439*1.5) {
     image(img34, 0, 0);
   }
-  if (mouseY > 228 && mouseY < 304 && mouseX > 293 && mouseX < 439) {
+  if (mouseY > 228*1.5 && mouseY < 304*1.5 && mouseX > 293*1.5 && mouseX < 439*1.5) {
     image(img33, 0, 0);
   }
-  if (mouseY > 304 && mouseY < 380 && mouseX > 293 && mouseX < 439) {
+  if (mouseY > 304*1.5 && mouseY < 380*1.5 && mouseX > 293*1.5 && mouseX < 439*1.5) {
     image(img32, 0, 0);
   }
-  if (mouseY > 380 && mouseY < 456 && mouseX > 293 && mouseX < 439) {
+  if (mouseY > 380*1.5 && mouseY < 456*1.5 && mouseX > 293*1.5 && mouseX < 439*1.5) {
     image(img31, 0, 0);
   }
-  if (mouseY > 456 && mouseY < 532 && mouseX > 293 && mouseX < 439) {
+  if (mouseY > 456*1.5 && mouseY < 532*1.5 && mouseX > 293*1.5 && mouseX < 439*1.5) {
     image(img3, 0, 0);
   }
 
-  // if (mouseY > 0 && mouseY < 76 && mouseX > 146 && mouseX < 293) {
+  // if (mouseY > 0 && mouseY < 76*1.5 && mouseX > 146*1.5 && mouseX < 293*1.5) {
   //   image(img26, 0, 0);
   // }
-  if (mouseY > 76 && mouseY < 152 && mouseX > 146 && mouseX < 293) {
+  if (mouseY > 76*1.5 && mouseY < 152*1.5 && mouseX > 146*1.5 && mouseX < 293*1.5) {
     image(img25, 0, 0);
   }
-  if (mouseY > 152 && mouseY < 228 && mouseX > 146 && mouseX < 293) {
+  if (mouseY > 152*1.5 && mouseY < 228*1.5 && mouseX > 146*1.5 && mouseX < 293*1.5) {
     image(img24, 0, 0);
   }
-  if (mouseY > 228 && mouseY < 304 && mouseX > 146 && mouseX < 293) {
+  if (mouseY > 228*1.5 && mouseY < 304*1.5 && mouseX > 146*1.5 && mouseX < 293*1.5) {
     image(img23, 0, 0);
   }
-  if (mouseY > 304 && mouseY < 380 && mouseX > 146 && mouseX < 293) {
+  if (mouseY > 304*1.5 && mouseY < 380*1.5 && mouseX > 146*1.5 && mouseX < 293*1.5) {
     image(img22, 0, 0);
   }
-  if (mouseY > 380 && mouseY < 456 && mouseX > 146 && mouseX < 293) {
+  if (mouseY > 380*1.5 && mouseY < 456*1.5 && mouseX > 146*1.5 && mouseX < 293*1.5) {
     image(img21, 0, 0);
   }
-  if (mouseY > 456 && mouseY < 532 && mouseX > 146 && mouseX < 293) {
+  if (mouseY > 456*1.5 && mouseY < 532*1.5 && mouseX > 146*1.5 && mouseX < 293*1.5) {
     image(img2, 0, 0);
   }
 
-  // if (mouseY > 0 && mouseY < 76 && mouseX > 0 && mouseX < 146) {
+  // if (mouseY > 0 && mouseY < 76*1.5 && mouseX > 0 && mouseX < 146*1.5) {
   //   image(img16, 0, 0);
   // }
-  if (mouseY > 76 && mouseY < 152 && mouseX > 0 && mouseX < 146) {
+  if (mouseY > 76*1.5 && mouseY < 152*1.5 && mouseX > 0 && mouseX < 146*1.5) {
     image(img15, 0, 0);
   }
-  if (mouseY > 152 && mouseY < 228 && mouseX > 0 && mouseX < 146) {
+  if (mouseY > 152*1.5 && mouseY < 228*1.5 && mouseX > 0 && mouseX < 146*1.5) {
     image(img14, 0, 0);
   }
-  if (mouseY > 228 && mouseY < 304 && mouseX > 0 && mouseX < 146) {
+  if (mouseY > 228*1.5 && mouseY < 304*1.5 && mouseX > 0 && mouseX < 146*1.5) {
     image(img13, 0, 0);
   }
-  if (mouseY > 304 && mouseY < 380 && mouseX > 0 && mouseX < 146) {
+  if (mouseY > 304*1.5 && mouseY < 380*1.5 && mouseX > 0 && mouseX < 146*1.5) {
     image(img12, 0, 0);
   }
-  if (mouseY > 380 && mouseY < 456 && mouseX > 0 && mouseX < 146) {
+  if (mouseY > 380*1.5 && mouseY < 456*1.5 && mouseX > 0 && mouseX < 146*1.5) {
     image(img11, 0, 0);
   }
-  if (mouseY > 456 && mouseY < 532 && mouseX > 0 && mouseX < 146) {
+  if (mouseY > 456*1.5 && mouseY < 532*1.5 && mouseX > 0 && mouseX < 146*1.5) {
     image(img1, 0, 0);
   }
 }
