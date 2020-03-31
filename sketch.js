@@ -100,13 +100,13 @@ function preload() {
   img75 = loadImage("https://raw.githubusercontent.com/lukegehron/ImageHoverViewer/master/assets/Animotion039.jpg");
 
 
-  img16 = loadImage("https://raw.githubusercontent.com/lukegehron/ImageHoverViewer/master/assets/Animotion045.jpg");
-  img26 = loadImage("https://raw.githubusercontent.com/lukegehron/ImageHoverViewer/master/assets/Animotion043.jpg");
-  img36 = loadImage("https://raw.githubusercontent.com/lukegehron/ImageHoverViewer/master/assets/Animotion044.jpg");
-  img46 = loadImage("https://raw.githubusercontent.com/lukegehron/ImageHoverViewer/master/assets/Animotion045.jpg");
-  img56 = loadImage("https://raw.githubusercontent.com/lukegehron/ImageHoverViewer/master/assets/Animotion046.jpg");
-  img66 = loadImage("https://raw.githubusercontent.com/lukegehron/ImageHoverViewer/master/assets/Animotion047.jpg");
-  img76 = loadImage("https://raw.githubusercontent.com/lukegehron/ImageHoverViewer/master/assets/Animotion048.jpg");
+  // img16 = loadImage("https://raw.githubusercontent.com/lukegehron/ImageHoverViewer/master/assets/Animotion045.jpg");
+  // img26 = loadImage("https://raw.githubusercontent.com/lukegehron/ImageHoverViewer/master/assets/Animotion043.jpg");
+  // img36 = loadImage("https://raw.githubusercontent.com/lukegehron/ImageHoverViewer/master/assets/Animotion044.jpg");
+  // img46 = loadImage("https://raw.githubusercontent.com/lukegehron/ImageHoverViewer/master/assets/Animotion045.jpg");
+  // img56 = loadImage("https://raw.githubusercontent.com/lukegehron/ImageHoverViewer/master/assets/Animotion046.jpg");
+  // img66 = loadImage("https://raw.githubusercontent.com/lukegehron/ImageHoverViewer/master/assets/Animotion047.jpg");
+  // img76 = loadImage("https://raw.githubusercontent.com/lukegehron/ImageHoverViewer/master/assets/Animotion048.jpg");
 }
 
 function setup() {
@@ -116,9 +116,9 @@ function setup() {
 
 
 function draw() {
-  if (mouseY > 0 && mouseY < 76 && mouseX > 878 && mouseX < 1024) {
-    image(img76, 0, 0);
-  }
+  // if (mouseY > 0 && mouseY < 76 && mouseX > 878 && mouseX < 1024) {
+  //   image(img76, 0, 0);
+  // }
   if (mouseY > 76 && mouseY < 152 && mouseX > 878 && mouseX < 1024) {
     image(img75, 0, 0);
   }
@@ -139,9 +139,9 @@ function draw() {
   }
 
 
-  if (mouseY > 0 && mouseY < 76 && mouseX > 731 && mouseX < 878) {
-    image(img66, 0, 0);
-  }
+  // if (mouseY > 0 && mouseY < 76 && mouseX > 731 && mouseX < 878) {
+  //   image(img66, 0, 0);
+  // }
   if (mouseY > 76 && mouseY < 152 && mouseX > 731 && mouseX < 878) {
     image(img65, 0, 0);
   }
@@ -161,9 +161,9 @@ function draw() {
     image(img6, 0, 0);
   }
 
-  if (mouseY > 0 && mouseY < 76 && mouseX > 585 && mouseX < 731) {
-    image(img56, 0, 0);
-  }
+  // if (mouseY > 0 && mouseY < 76 && mouseX > 585 && mouseX < 731) {
+  //   image(img56, 0, 0);
+  // }
   if (mouseY > 76 && mouseY < 152 && mouseX > 585 && mouseX < 731) {
     image(img55, 0, 0);
   }
@@ -183,9 +183,9 @@ function draw() {
     image(img5, 0, 0);
   }
 
-  if (mouseY > 0 && mouseY < 76 && mouseX > 439 && mouseX < 585) {
-    image(img46, 0, 0);
-  }
+  // if (mouseY > 0 && mouseY < 76 && mouseX > 439 && mouseX < 585) {
+  //   image(img46, 0, 0);
+  // }
   if (mouseY > 76 && mouseY < 152 && mouseX > 439 && mouseX < 585) {
     image(img45, 0, 0);
   }
@@ -205,9 +205,9 @@ function draw() {
     image(img4, 0, 0);
   }
 
-  if (mouseY > 0 && mouseY < 76 && mouseX > 293 && mouseX < 439) {
-    image(img36, 0, 0);
-  }
+  // if (mouseY > 0 && mouseY < 76 && mouseX > 293 && mouseX < 439) {
+  //   image(img36, 0, 0);
+  // }
   if (mouseY > 76 && mouseY < 152 && mouseX > 293 && mouseX < 439) {
     image(img35, 0, 0);
   }
@@ -227,9 +227,9 @@ function draw() {
     image(img3, 0, 0);
   }
 
-  if (mouseY > 0 && mouseY < 76 && mouseX > 146 && mouseX < 293) {
-    image(img26, 0, 0);
-  }
+  // if (mouseY > 0 && mouseY < 76 && mouseX > 146 && mouseX < 293) {
+  //   image(img26, 0, 0);
+  // }
   if (mouseY > 76 && mouseY < 152 && mouseX > 146 && mouseX < 293) {
     image(img25, 0, 0);
   }
@@ -249,9 +249,9 @@ function draw() {
     image(img2, 0, 0);
   }
 
-  if (mouseY > 0 && mouseY < 76 && mouseX > 0 && mouseX < 146) {
-    image(img16, 0, 0);
-  }
+  // if (mouseY > 0 && mouseY < 76 && mouseX > 0 && mouseX < 146) {
+  //   image(img16, 0, 0);
+  // }
   if (mouseY > 76 && mouseY < 152 && mouseX > 0 && mouseX < 146) {
     image(img15, 0, 0);
   }
