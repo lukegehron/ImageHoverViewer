@@ -51,13 +51,13 @@ let img76;
 
 
 function preload() {
-  img1 = loadImage("https://raw.githubusercontent.com/lukegehron/ImageHoverViewer/master/assets/Animotion002.jpg");
-  img2 = loadImage("https://raw.githubusercontent.com/lukegehron/ImageHoverViewer/master/assets/Animotion099.jpg");
-  img3 = loadImage("https://raw.githubusercontent.com/lukegehron/ImageHoverViewer/master/assets/Animotion003.jpg");
-  img4 = loadImage("https://raw.githubusercontent.com/lukegehron/ImageHoverViewer/master/assets/Animotion004.jpg");
-  img5 = loadImage("https://raw.githubusercontent.com/lukegehron/ImageHoverViewer/master/assets/Animotion005.jpg");
-  img6 = loadImage("https://raw.githubusercontent.com/lukegehron/ImageHoverViewer/master/assets/Animotion006.jpg");
-  img7 = loadImage("https://raw.githubusercontent.com/lukegehron/ImageHoverViewer/master/assets/Animotion007.jpg");
+  img1 = loadImage("https://raw.githubusercontent.com/lukegehron/ImageHoverViewer/master/assets/Animotion001.jpg");
+  img2 = loadImage("https://raw.githubusercontent.com/lukegehron/ImageHoverViewer/master/assets/Animotion002.jpg");
+  img3 = loadImage("https://raw.githubusercontent.com/lukegehron/ImageHoverViewer/master/assets/Animotion099.jpg");
+  img4 = loadImage("https://raw.githubusercontent.com/lukegehron/ImageHoverViewer/master/assets/Animotion003.jpg");
+  img5 = loadImage("https://raw.githubusercontent.com/lukegehron/ImageHoverViewer/master/assets/Animotion004.jpg");
+  img6 = loadImage("https://raw.githubusercontent.com/lukegehron/ImageHoverViewer/master/assets/Animotion005.jpg");
+  img7 = loadImage("https://raw.githubusercontent.com/lukegehron/ImageHoverViewer/master/assets/Animotion006.jpg");
 
   img11 = loadImage("https://raw.githubusercontent.com/lukegehron/ImageHoverViewer/master/assets/Animotion013.jpg");
   img21 = loadImage("https://raw.githubusercontent.com/lukegehron/ImageHoverViewer/master/assets/Animotion012.jpg");
