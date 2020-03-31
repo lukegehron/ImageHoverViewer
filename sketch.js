@@ -111,6 +111,7 @@ function preload() {
 
 function setup() {
   createCanvas(1536, 864);
+  image(img75, 0, 0);
 }
 
 
