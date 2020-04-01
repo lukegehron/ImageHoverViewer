@@ -215,8 +215,9 @@ img103 = loadImage("https://raw.githubusercontent.com/lukegehron/ImageHoverViewe
 }
 
 function setup() {
-  image(img0, 0, 0);
+  
   createCanvas(1181, 966);
+  image(img100, 0, 0);
 }
 
 
